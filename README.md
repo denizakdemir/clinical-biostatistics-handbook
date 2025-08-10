@@ -66,10 +66,10 @@ This handbook is designed for biostatisticians (entry to senior level), clinical
 - Regulatory submission checklists
 
 ### [Code Examples](./code-examples/)
-- SAS macro libraries
-- Statistical method implementations
-- Quality control programs
-- Validation frameworks
+- SAS macro libraries for clinical trials
+- Statistical method implementations 
+- Quality control and validation programs
+- Environment setup and utility frameworks
 
 ### [Additional Resources](./resources/)
 - Regulatory guidance quick reference
